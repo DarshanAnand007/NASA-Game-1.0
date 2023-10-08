@@ -1,7 +1,10 @@
 /* Styles for the video and question box container */
+body{
+    background-color:black;
+}
 .video-container {
     position: relative;
-    width: 100%; /* Set the width to 100% to take up the entire screen */
+    width: auto; /* Set the width to 100% to take up the entire screen */
     display: flex;
 }
 
